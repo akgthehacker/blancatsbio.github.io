@@ -105,7 +105,7 @@ mango mustard 67 ahh boi
         <div class="profile-text">
             <h2>astrokittygaming</h2>
             <p>Hello! I Am Blancat aka astrokittygaming On Discord. I Am A Discord Server Owner And I Love My Supporters!</p>
-            <p>I Love Kitty Cat's :3</p>
+            <p>I Love Kitty Cat's</p>
         </div>
         <div class="discord-btn" onclick="window.open('https://discord.gg/rKC5F4YFEu', '_blank');"></div>
     </div>
